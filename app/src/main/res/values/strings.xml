@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">316065008985884</string>
+    <string name="fb_login_protocol_scheme">fb316065008985884</string>
+
+</resources>
